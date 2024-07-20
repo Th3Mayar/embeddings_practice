@@ -40,10 +40,6 @@ Open the notebook with Jupyter or any compatible environment:
 jupyter notebook embeddings_practice.ipynb
 ```
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
+## Open Source
 
 Feel free to modify this description to better fit your needs.
